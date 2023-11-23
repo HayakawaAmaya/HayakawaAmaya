@@ -1,6 +1,10 @@
 # Hello, World! 👋 I'm Amaya
 
-✨ _Invigorating the bloom of my twenties, I am an effervescent **20-year-old** teeming with an unquenchable passion for **Artificial Intelligence**. My dream, shimmering on the horizon, is to ascend to the pantheon of _**expert-level AI scientists**_. As an ardent admirer of AI, every sunrise finds me delving into the fascinating realms of its expansive universe, whetting my skillset, enhancing my understanding, and reinforcing my foundation - a devoted student of this riveting discipline, soulfully intertwined with Artificial Intelligence **every single day**._ ✨
+🚀🍜🎻 _As a lively 20-year-old, I have set sail on a fascinating journey within the broad universe of **Artificial Intelligence**. Although a fervent fan at the moment, my aspirations reach far beyond; I am nurturing my dreams to become a master craftsperson in this detailed art of AI's architectural elegance. Every day, my pursuit of knowledge results in an enriching voyage, exploring the myriad layers of this captivating discipline._
+
+_In the ephemeral moments of respite, I indulge in the delightful culinary masterpiece that is **good ramen**. This humble dish, intricately laced with flavors, mirrors the complexity and richness of the world I’m exploring within AI._
+
+_In the realm of sonic experiences, nothing captivates my heart quite like the harmonious symphony of a well-played **piano** or the lyrical language of a **violin**. Their rhythmic dialogues resonate with the depth and beauty in AI, offering an enchanting melody that complements my scientific sojourn._ 🚀🍜🎻
 
 ## 🌱 I’m currently learning
 
