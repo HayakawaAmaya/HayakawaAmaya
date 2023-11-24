@@ -17,5 +17,3 @@ _In the realm of sonic experiences, nothing captivates my heart quite like the h
 ## 📫 How you can reach me
 
 ✨🌐 _In this interwoven world of ours, I believe in the magic of connection and dialogue. Whether you're a fellow explorer in the vast realm of AI, or simply wish to connect, I welcome your thoughts, ideas, and collaborations. Please feel free to extend the threads of communication and reach me at **[HayakawaAmaya@outlook.com](mailto:HayakawaAmaya@outlook.com)**. I eagerly anticipate the rich tapestry of perspectives this open door may weave._ 🌐✨
-
-## 😄 Pronouns: He/Him
