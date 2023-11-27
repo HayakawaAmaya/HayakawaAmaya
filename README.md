@@ -8,7 +8,7 @@ _In the realm of sonic experiences, nothing captivates my heart quite like the h
 
 ## 🌱 I’m currently learning
 
-🚀 _At present, I am delightfully immersed in an eclectic journey of knowledge acquisition. Defying the boundaries of conventional learning, I delve deep into the intricate patterns of **mathematics**, the profound mysteries of **physics**, and the logical wonderland of **computer science**. Always on the quest for excellence, I am currently wielding the power of the esteemed programming languages, **Python** and **C/C++**. Each line of code I craft strengthens my affinity towards these veritable tools of the modern technological era. Alongside, my intellectual voyage unfurls the compelling narratives of **data structures** and **algorithms** - the very core layers that shape our digital universe. 🚀_
+🐍🧠🤖 _Immersed in the dynamic world of technological discovery, I am currently on an enlightening journey of learning **Python**, a powerful programming language that stands as a prodigious gateway to **Artificial Intelligence**. With each line of Python code I compose, I forge a versatile tool in my AI skillset, reinforcing the foundation necessary for the comprehension and creation of intelligent systems. This venture into Python not only illustrates my commitment to this vast field but also signifies a crucial milestone on my path towards mastering AI._ 🐍🧠🤖
 
 ## 👯 I’m eager to collaborate on
 
